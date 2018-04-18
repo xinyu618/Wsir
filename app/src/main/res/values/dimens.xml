@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <!--chatting menu start-->
+    <dimen name="chatting_menu_height">225dp</dimen>
+    <dimen name="chatting_menu_margin_bottom">15dp</dimen>
+    <dimen name="chatting_menu_item_margin_right">30dp</dimen>
+    <dimen name="chatting_menu_iv_length">60dp</dimen>
+    <dimen name="chatting_menu_text_size">13sp</dimen>
+    <dimen name="chatting_menu_text_margin_top">5dp</dimen>
+    <!--chatting menu end-->
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--chatting menu start-->
+    <color name="chatting_menu_text_color">#808080</color>
+    <!--chatting menu end-->
+</resources>

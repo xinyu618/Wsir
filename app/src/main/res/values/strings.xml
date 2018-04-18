@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">W先生</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!--chatting menu start-->
+    <string name="chatting_menu_photo_title">图片</string>
+    <string name="chatting_menu_take_title">拍摄</string>
+    <string name="chatting_menu_situation_title">位置</string>
+    <string name="chatting_menu_card_title">名片</string>
+    <string name="chatting_menu_video_title">小视频</string>
+    <string name="chatting_menu_collection_title">我的收藏</string>
+    <string name="chatting_menu_chat_video_title">视频聊天</string>
+    <string name="chatting_menu_chat_voice_title">语音聊天</string>
+    <!--chatting menu end-->
+</resources>
